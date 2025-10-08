@@ -13,8 +13,8 @@ Aunque no todos mis proyectos llegan a completarse, cada uno representa mi evolu
 - [Apix](https://github.com/DonLuizKv/apix): Cliente HTTP para escritorio.
 - [MessageService](https://github.com/DonLuizKv/MessageService): Microservicio especializado en la comunicacion (chats) en tiempo real por websockets.
 
-## 📊 Stats
-![DonLuizKv GitHub stats](https://github-readme-stats.vercel.app/api?username=DonLuizKv&show_icons=true&theme=dark)
+## 📊 Stats 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonLuizKv&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contacto
 [Email](mailto:luizkv4@outlook.com)
