@@ -8,10 +8,10 @@ Aunque no todos mis proyectos llegan a completarse, cada uno representa mi evolu
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,postgres,mysql,docker,tauri,electron,react,nextjs,astro,tailwind,godot&perline=7)](https://skillicons.dev)
 
 ## 📌 Proyectos destacados
-- [RandomChat](https://github.com/DonLuizKv/randomchat):RandomChat una aplicacion de comunicacion aleatoria en tiempo real.
+- [RandomChat](https://github.com/DonLuizKv/randomchat): RandomChat una aplicacion de comunicacion aleatoria en tiempo real.
 - [RandomChatApi](https://github.com/DonLuizKv/randomchatapi): API oficial de RandomChat.
-<!-- - [notifications-service](https://github.com/TU_USUARIO/notifications-service): microservicio genérico de notificaciones.
-- [infra-docker](https://github.com/TU_USUARIO/infra-docker): ejemplo de despliegue con Docker Compose.-->
+- [Apix](https://github.com/DonLuizKv/apix): Cliente HTTP y WebSocket.
+
 
 ## 📊 Stats
 ![DonLuizKv GitHub stats](https://github-readme-stats.vercel.app/api?username=DonLuizKv&show_icons=true&theme=dark)
