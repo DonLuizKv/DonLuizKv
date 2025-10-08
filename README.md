@@ -14,7 +14,7 @@ Me gusta construir APIs robustas, servicios que escalan y librerias utiles.
 - [infra-docker](https://github.com/TU_USUARIO/infra-docker): ejemplo de despliegue con Docker Compose.-->
 
 ## 📊 Stats
-<!--START_SECTION:WAKATIME_API_KEY-->
+<!--START_SECTION:waka-->
 <!--END_SECTION:WAKATIME_API_KEY-->
 
 ![DonLuizKv GitHub stats](https://github-readme-stats.vercel.app/api?username=DonLuizKv&show_icons=true&theme=dark)
