@@ -4,7 +4,7 @@ Backend developer con experiencia en **Node.js, PostgreSQL y arquitecturas distr
 Me gusta construir APIs robustas, servicios que escalan y librerias utiles.
 
 ## 🚀 Tech stack
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,postgres,mysql,docker,tauri,electron,react,nextjs,astro,tailwind,godot&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,postgres,mysql,docker,tauri,electron,react,nextjs,astro,tailwind,godot&perline=7)](https://skillicons.dev)
 
 ## 📌 Proyectos destacados
 - [RandomChatApi](https://github.com/DonLuizKv/randomchatapi): API completa con JWT, WebSockets y SQL crudo.
