@@ -10,7 +10,7 @@ Aunque no todos mis proyectos llegan a completarse, cada uno representa mi evolu
 ## 📌 Proyectos destacados
 - [RandomChat](https://github.com/DonLuizKv/randomchat): RandomChat una aplicacion de comunicacion aleatoria en tiempo real.
 - [RandomChatApi](https://github.com/DonLuizKv/randomchatapi): API oficial de RandomChat.
-- [Apix](https://github.com/DonLuizKv/apix): Cliente HTTP y WebSocket.
+- [Apix](https://github.com/DonLuizKv/apix): Cliente HTTP para escritorio.
 
 
 ## 📊 Stats
