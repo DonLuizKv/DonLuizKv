@@ -2,27 +2,27 @@ name: WakaTime Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # se ejecuta todos los días a medianoche (UTC)
-  workflow_dispatch:     # permite ejecutarlo manualmente
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write  # 👈 Esto da permiso al GH_TOKEN para escribir commits
 
 jobs:
   update-readme:
-    name: Update README with WakaTime Stats
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
-
-      - name: Generate WakaTime Stats
-        uses: anmol098/waka-readme-stats@master
+      - uses: actions/checkout@v3
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_PROFILE_VIEWS: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_EDITORS: "True"
           SHOW_COMMIT: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_OS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          COMMIT_MESSAGE: "Updated waka-readme graph with new metrics"
