@@ -14,7 +14,7 @@ Me gusta construir APIs robustas, servicios que escalan y librerias utiles.
 - [infra-docker](https://github.com/TU_USUARIO/infra-docker): ejemplo de despliegue con Docker Compose.-->
 
 ## 📊 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonLuizKv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![DonLuizKv GitHub stats](https://github-readme-stats.vercel.app/api?username=DonLuizKv&show_icons=true&theme=dark)
 
 ## 📫 Contacto
 [Email](mailto:luizkv4@outlook.com)
