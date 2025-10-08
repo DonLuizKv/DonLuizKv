@@ -19,5 +19,5 @@ Me gusta construir APIs robustas, servicios que escalan y librerias utiles.
 ## 📫 Contacto
 [Email](mailto:luizkv4@outlook.com)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:WAKATIME_API_KEY-->
+<!--END_SECTION:WAKATIME_API_KEY-->
