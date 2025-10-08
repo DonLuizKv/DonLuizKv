@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # 👈 Esto da permiso al GH_TOKEN para escribir commits
+  contents: write
 
 jobs:
   update-readme:
