@@ -17,5 +17,8 @@ Aunque no todos mis proyectos llegan a completarse, cada uno representa mi evolu
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonLuizKv&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contacto
-[Email](mailto:luizkv4@outlook.com)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(donluizkv@gmail.com)
+
 
