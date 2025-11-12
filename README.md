@@ -9,7 +9,7 @@ Aunque no todos mis proyectos llegan a completarse, cada uno representa mi evolu
 
 ## 📌 Proyectos destacados
 - [RandomChat](https://github.com/DonLuizKv/randomchat): Conectate con personas aleatorias y genera un vinculo mas allá del anonimato.
-- [Praxis](https://github.com/DonLuizKv/Praxis): Sistema de gestion de practicas formativas universitarias.
+- [RandomChatAPI](https://github.com/DonLuizKv/RandomChatAPI): Backend oficial de randomchat.
 - [Mini-Market](https://github.com/DonLuizKv/Mini-Market): Un E-Commerce robusto, seguro y agradable a la vista.
 - [Apix](https://github.com/DonLuizKv/apix): Cliente HTTP/WebSocket para escritorio.
 - [MessageService](https://github.com/DonLuizKv/MessageService): Microservicio especializado en la comunicacion (chats) en tiempo real por websockets.
