@@ -8,12 +8,16 @@ Aunque no todos mis proyectos llegan a completarse, cada uno representa mi evolu
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,postgres,mysql,docker,tauri,electron,react,nextjs,astro,tailwind,godot&perline=7)](https://skillicons.dev)
 
 ## 📌 Proyectos destacados
+
+### Frontend
 - [RandomChat](https://github.com/DonLuizKv/randomchat): Conectate con personas aleatorias y genera un vinculo mas allá del anonimato.
-- [RandomChatAPI](https://github.com/DonLuizKv/RandomChatAPI): Backend oficial de randomchat.
 - [AutomotiveClinic](https://github.com/DonLuizKv/AutomotiveClinic): Un sistema para mecanicos desorganizados pero comprometidos.
-- [AutomotiveClinicAPI](https://github.com/DonLuizKv/AutomotiveClinicAPI): Backend oficial de AutomotiveClinic.
 - [Mini-Market](https://github.com/DonLuizKv/Mini-Market): Un E-Commerce robusto, seguro y agradable a la vista.
 - [Apix](https://github.com/DonLuizKv/apix): Cliente HTTP/WebSocket para escritorio.
+
+### Backend
+- [AutomotiveClinicAPI](https://github.com/DonLuizKv/AutomotiveClinicAPI): Backend oficial de AutomotiveClinic.
+- [RandomChatAPI](https://github.com/DonLuizKv/RandomChatAPI): Backend oficial de randomchat.
 - [MessageService](https://github.com/DonLuizKv/MessageService): Microservicio especializado en la comunicacion (chats) en tiempo real por websockets.
 
 ## 📊 Stats 
