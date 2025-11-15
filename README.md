@@ -1,8 +1,8 @@
 # Hola, soy LuizK 👋
 
-###Desarrollador FullStack apasionado en construir todo tipo de aplicaciones, APIs robustas, servicios que escalan y librerias utiles.
-###Me gusta diseñar y organizar APIs, estructurar proyectos y aprender constantemente.
-###Aunque no todos mis proyectos llegan a completarse, cada uno representa mi evolucion como desarrollador.
+### Desarrollador FullStack apasionado en construir todo tipo de aplicaciones, APIs robustas, servicios que escalan y librerias utiles.
+### Me gusta diseñar y organizar APIs, estructurar proyectos y aprender constantemente.
+### Aunque no todos mis proyectos llegan a completarse, cada uno representa mi evolucion como desarrollador.
 
 ## 🚀 Tech stack
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,postgres,mysql,docker,tauri,electron,react,nextjs,astro,tailwind,godot&perline=7)](https://skillicons.dev)
