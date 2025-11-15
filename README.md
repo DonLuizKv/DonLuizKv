@@ -1,21 +1,21 @@
 # Hola, soy LuizK 👋
 
-#### Desarrollador FullStack apasionado en construir todo tipo de aplicaciones, APIs robustas, servicios que escalan y librerias utiles.
-### Me gusta diseñar y organizar APIs, estructurar proyectos y aprender constantemente.
-### Aunque no todos mis proyectos llegan a completarse, cada uno representa mi evolucion como desarrollador.
+Desarrollador FullStack apasionado en construir todo tipo de aplicaciones, APIs robustas, servicios que escalan y librerias utiles.
+Me gusta diseñar y organizar APIs, estructurar proyectos y aprender constantemente.
+Aunque no todos mis proyectos llegan a completarse, cada uno representa mi evolucion como desarrollador.
 
 ## 🚀 Tech stack
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,postgres,mysql,docker,tauri,electron,react,nextjs,astro,tailwind,godot&perline=7)](https://skillicons.dev)
 
 ## 📌 Proyectos destacados
 
-### Frontend
+### - Frontend
 - [RandomChat](https://github.com/DonLuizKv/randomchat): Conectate con personas aleatorias y genera un vinculo mas allá del anonimato.
 - [AutomotiveClinic](https://github.com/DonLuizKv/AutomotiveClinic): Un sistema para mecanicos desorganizados pero comprometidos.
 - [Mini-Market](https://github.com/DonLuizKv/Mini-Market): Un E-Commerce robusto, seguro y agradable a la vista.
 - [Apix](https://github.com/DonLuizKv/apix): Cliente HTTP/WebSocket para escritorio.
 
-### Backend
+### - Backend
 - [AutomotiveClinicAPI](https://github.com/DonLuizKv/AutomotiveClinicAPI): Backend oficial de AutomotiveClinic.
 - [RandomChatAPI](https://github.com/DonLuizKv/RandomChatAPI): Backend oficial de randomchat.
 - [MessageService](https://github.com/DonLuizKv/MessageService): Microservicio especializado en la comunicacion (chats) en tiempo real por websockets.
