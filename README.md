@@ -21,7 +21,7 @@ Aunque no todos mis proyectos llegan a completarse, cada uno representa mi evolu
 - [MessageService](https://github.com/DonLuizKv/MessageService): Microservicio especializado en la comunicacion (chats) en tiempo real por websockets.
 
 ## 📊 Stats 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-block-animate.svg)
 
 ## 📫 Contacto
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
