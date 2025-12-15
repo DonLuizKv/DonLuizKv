@@ -351,8 +351,8 @@
         "fileName": "gitblock-day.svg",
         "backgroundColor": "#ffffff",
         "foregroundColor": "#f1f1f1",
-        "strongColor": "#111133",
-        "weakColor": "gray",
+        "strongColor": "#f1f1f1",
+        "weakColor": "#f1f1f1",
         "radarColor": "#47a042",
         "growingAnimation": true,
         "contribPatterns": [
