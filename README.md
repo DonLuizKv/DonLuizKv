@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hola, soy LuizK 👋</h1>
-  <h3>Ingeniero de Software | Desarrollador FullStack</h3>
+  <h3>Ingeniero de Software | Desarrollador Backend</h3>
 
   <p>
     Especializado en el desarrollo de arquitecturas robustas y escalables. Me apasiona el diseño de APIs eficientes y la creación de experiencias de usuario modernas y de alto rendimiento.
@@ -67,7 +67,7 @@
 
 <br />
 <div align="center">
-  <sub>Diseñado con ❤️</sub>
+  <sub>Diseñado con ❤️ por mi</sub>
 </div>
 
 
