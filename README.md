@@ -52,10 +52,7 @@
 
 | Proyecto | Descripción |
 | :--- | :--- |
-| **[RandomChat](https://github.com/DonLuizKv/randomchat)** | Plataforma de mensajería para conectar personas aleatoriamente, enfocada en la experiencia de usuario y privacidad. |
-| **[AutomotiveClinic](https://github.com/DonLuizKv/AutomotiveClinic)** | Sistema de gestión integral para talleres mecánicos, optimizando el flujo de trabajo y la atención al cliente. |
-| **[Mini-Market](https://github.com/DonLuizKv/Mini-Market)** | Solución E-Commerce robusta y segura con una interfaz de usuario pulida y moderna. |
-| **[Apix](https://github.com/DonLuizKv/apix)** | Cliente de escritorio para pruebas HTTP/WebSocket, diseñado para desarrolladores que buscan eficiencia. |
+| **[Apix](https://github.com/DonLuizKv/apix)** | Cliente de escritorio para pruebas HTTP, diseñado para desarrolladores que buscan una alternativa mas rapida que postman. |
 
 ### ⚙️ Backend & Servicios
 
