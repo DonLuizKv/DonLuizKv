@@ -44,8 +44,6 @@
   </picture>
 </div>
 
-<hr />
-
 ## 📌 Proyectos Destacados
 
 ### 💻 Frontend & Aplicaciones
@@ -61,6 +59,8 @@
 | **[AutomotiveClinicAPI](https://github.com/DonLuizKv/AutomotiveClinicAPI)** | API RESTful que alimenta el ecosistema de AutomotiveClinic, garantizando integridad y velocidad. |
 | **[RandomChatAPI](https://github.com/DonLuizKv/RandomChatAPI)** | Backend escalable para RandomChat, gestionando conexiones concurrentes y lógica de emparejamiento. |
 | **[MessageService](https://github.com/DonLuizKv/MessageService)** | Microservicio especializado de alto rendimiento para comunicación en tiempo real vía WebSockets. |
+
+<br/>
 
 <div align="center">
   <sub>Diseñado con ❤️ por mi</sub>
