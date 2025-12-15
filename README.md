@@ -18,8 +18,6 @@
   </p>
 </div>
 
-<hr style="border-color: #474747; border-width: 1px;"/>
-
 ## 🚀 Tech Stack
 
 <div align="center">
@@ -35,7 +33,7 @@
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=DonLuizKv&show_icons=true&theme=transparent&hide_border=true&locale=es" alt="GitHub Stats" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonLuizKv&layout=compact&theme=transparent&hide_border=true&locale=es&langs_count=10" alt="Top Languages" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonLuizKv&theme=transparent&hide_border=true&locale=es&langs_count=15" alt="Top Languages" height="180" />
   </div>
 
   <!-- 3D Contrib Graph -->
