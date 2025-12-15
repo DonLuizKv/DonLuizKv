@@ -35,7 +35,7 @@
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=DonLuizKv&show_icons=true&theme=transparent&hide_border=true&locale=es" alt="GitHub Stats" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonLuizKv&layout=compact&theme=transparent&hide_border=true&locale=es" alt="Top Languages" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonLuizKv&layout=compact&theme=transparent&hide_border=true&locale=es&langs_count=10" alt="Top Languages" height="150" />
   </div>
 
   <!-- 3D Contrib Graph -->
