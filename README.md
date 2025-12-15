@@ -62,7 +62,6 @@
 | **[RandomChatAPI](https://github.com/DonLuizKv/RandomChatAPI)** | Backend escalable para RandomChat, gestionando conexiones concurrentes y lógica de emparejamiento. |
 | **[MessageService](https://github.com/DonLuizKv/MessageService)** | Microservicio especializado de alto rendimiento para comunicación en tiempo real vía WebSockets. |
 
-<br />
 <div align="center">
   <sub>Diseñado con ❤️ por mi</sub>
 </div>
