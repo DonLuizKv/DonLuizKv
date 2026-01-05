@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>Hola, soy LuizK 👋</h1>
-  <h3>Ingeniero de Software | Desarrollador Backend</h3>
+  <h1>Hello, i'm LuizK 👋</h1>
+  <h3>Software Engineer | Backend Developer</h3>
 
   <p>
-    Especializado en el desarrollo de arquitecturas robustas y escalables. Me apasiona el diseño de APIs eficientes y la creación de experiencias de usuario modernas y de alto rendimiento.
+    Passionate about building and organizing systems where structure and seamless functionality are the priority. I believe a well-crafted backend is an invisible masterpiece.
   </p>
 
   <p>
@@ -28,7 +28,24 @@
 
 <br />
 
-## 📊 Estadísticas de GitHub
+## 📌 Featured Projects
+
+### 💻 Tools & Applications
+
+| Proyecto | Descripción |
+| :--- | :--- |
+| **[Apix](https://github.com/DonLuizKv/apix)** | A desktop REST client designed for developers looking for a faster and more immediate alternative to Postman. |
+
+### ⚙️ Backend & Servicios
+
+| Proyecto | Descripción |
+| :--- | :--- |
+| **[RandomChatAPI](https://github.com/DonLuizKv/RandomChatAPI)** | Scalable backend for RandomChat, managing concurrent connections and matching logic. |
+| **[DeliverService](https://github.com/DonLuizKv/DeliverService)** | High-performance WebSocket microservice using a custom routing protocol for seamless and organized real-time communication. |
+
+<br />
+
+## 📊 Estadísticas
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
@@ -44,26 +61,10 @@
   </picture>
 </div>
 
-## 📌 Proyectos Destacados
-
-### 💻 Frontend & Aplicaciones
-
-| Proyecto | Descripción |
-| :--- | :--- |
-| **[Apix](https://github.com/DonLuizKv/apix)** | Cliente de escritorio para pruebas HTTP, diseñado para desarrolladores que buscan una alternativa mas rapida que postman. |
-
-### ⚙️ Backend & Servicios
-
-| Proyecto | Descripción |
-| :--- | :--- |
-| **[AutomotiveClinicAPI](https://github.com/DonLuizKv/AutomotiveClinicAPI)** | API RESTful que alimenta el ecosistema de AutomotiveClinic, garantizando integridad y velocidad. |
-| **[RandomChatAPI](https://github.com/DonLuizKv/RandomChatAPI)** | Backend escalable para RandomChat, gestionando conexiones concurrentes y lógica de emparejamiento. |
-| **[MessageService](https://github.com/DonLuizKv/MessageService)** | Microservicio especializado de alto rendimiento para comunicación en tiempo real vía WebSockets. |
-
 <br/>
 
 <div align="center">
-  <sub>Diseñado con ❤️ por mi</sub>
+  <sub>Diseñado con ❤️</sub>
 </div>
 
 
