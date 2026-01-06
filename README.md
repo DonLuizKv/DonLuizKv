@@ -29,21 +29,15 @@
 ## 📌 Featured Projects
 
 ### 💻 Tools & Applications
+**[Apix](https://github.com/DonLuizKv/apix)** | A desktop REST client designed for developers looking for a faster and more immediate alternative to Postman. 
 
-| Proyecto | Descripción |
-| :--- | :--- |
-| **[Apix](https://github.com/DonLuizKv/apix)** | A desktop REST client designed for developers looking for a faster and more immediate alternative to Postman. |
-
-### ⚙️ Backend & Servicios
-
-| Proyecto | Descripción |
-| :--- | :--- |
-| **[RandomChatAPI](https://github.com/DonLuizKv/RandomChatAPI)** | Scalable backend for RandomChat, managing concurrent connections and matching logic. |
-| **[DeliverService](https://github.com/DonLuizKv/DeliverService)** | High-performance WebSocket microservice using a custom routing protocol for seamless and organized real-time communication. |
+### ⚙️ Backend & Services
+**[RandomChatAPI](https://github.com/DonLuizKv/RandomChatAPI)** | Scalable backend for RandomChat, managing concurrent connections and matching logic.
+**[DeliverService](https://github.com/DonLuizKv/DeliverService)** | High-performance WebSocket microservice using a custom routing protocol for seamless and organized real-time communication.
 
 <br />
 
-## 📊 Estadísticas
+## 📊 Stadistics
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
