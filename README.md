@@ -29,21 +29,22 @@
 ## 📌 Featured Projects
 
 ### 💻 Tools & Applications
-**[Apix](https://github.com/DonLuizKv/apix)** | A desktop REST client designed for developers looking for a faster and more immediate alternative to Postman. 
+
+[**[Apix](https://github.com/DonLuizKv/apix)** | A desktop REST client designed for developers looking for a faster and more immediate alternative to Postman.]
 
 ### ⚙️ Backend & Services
-**[RandomChatAPI](https://github.com/DonLuizKv/RandomChatAPI)** | Scalable backend for RandomChat, managing concurrent connections and matching logic.
-**[DeliverService](https://github.com/DonLuizKv/DeliverService)** | High-performance WebSocket microservice using a custom routing protocol for seamless and organized real-time communication.
+[**[RandomChatAPI](https://github.com/DonLuizKv/RandomChatAPI)** | Scalable backend for RandomChat, managing concurrent connections and matching logic.
+[**[DeliverService](https://github.com/DonLuizKv/DeliverService)** | High-performance WebSocket microservice using a custom routing protocol for seamless and organized real-time communication.
 
 <br />
 
 ## 📊 Stadistics
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+  <!-- <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=DonLuizKv&show_icons=true&theme=transparent&hide_border=true&locale=es" alt="GitHub Stats" height="180" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonLuizKv&layout=compact&theme=transparent&hide_border=true&locale=es&langs_count=15" alt="Top Languages" height="180" />
-  </div>
+  </div> -->
 
   <!-- 3D Contrib Graph -->
   <picture>
