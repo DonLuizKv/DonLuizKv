@@ -27,9 +27,11 @@
 <br />
 
 ## 📌 Featured Projects
+<!--
 | Proyect | Description |
 | :--- | :--- |
 | **[DeliverService](https://github.com/DonLuizKv/DeliverService)** | High-performance WebSocket microservice using a custom routing protocol for seamless and organized real-time communication. |
+-->
 
 <br />
 
