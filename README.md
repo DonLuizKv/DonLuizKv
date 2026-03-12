@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,rust,postgres,mysql,docker,tauri,electron,react,nextjs,astro,tailwind,godot&perline=8" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,express,rust,postgres,mysql,docker,tauri,electron,react,nextjs,astro,tailwind&perline=8" alt="My Skills" />
   </a>
 </div>
 
